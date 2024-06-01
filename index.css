@@ -1,0 +1,199 @@
+body {
+    background-color: #1c1c1c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.main {
+    background-color: #273549;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    width: 80%;
+    max-width: 600px;
+}
+
+#head {
+    font-size: 60px;
+    color: aliceblue;
+    margin-bottom: 0;
+}
+
+#head2 {
+    font-size: 60px;
+    color: #10B981;
+    margin: 0;
+}
+
+#slogan {
+    color: aliceblue;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+#button {
+    background-color: #10B981;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    color: aliceblue;
+    cursor: pointer;
+    margin-bottom: 20px;
+    font-size: large;
+}
+
+#button:hover {
+    background-color: #0b8056;
+}
+
+.box-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    background-color: #1c1c1c;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+    width: 45%;
+}
+
+.box p {
+    color: #10B981;
+    font-size: 20px;
+    word-break: break-all;
+}
+
+.checks {
+    display: flex;
+    margin: 50px;
+    text-align: left;
+    justify-content: space-between;
+}
+
+#pass-len {
+    color: aliceblue;
+    margin: 10px;
+    font-weight: bold;    
+}
+
+#num {
+    margin: 20px;
+}
+
+#toggle {
+    color: aliceblue;
+    font-weight: bold;
+}
+body {
+    background-color: #1c1c1c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.main {
+    background-color: #273549;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    width: 80%;
+    max-width: 600px;
+}
+
+#head {
+    font-size: 60px;
+    color: aliceblue;
+    margin-bottom: 0;
+}
+
+#head2 {
+    font-size: 60px;
+    color: #10B981;
+    margin: 0;
+}
+
+#slogan {
+    color: aliceblue;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+#button {
+    background-color: #10B981;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    color: aliceblue;
+    cursor: pointer;
+    margin-bottom: 20px;
+    font-size: large;
+}
+
+#button:hover {
+    background-color: #0b8056;
+}
+
+.box-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    background-color: #1c1c1c;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+    width: 45%;
+}
+
+.box p {
+    color: #10B981;
+    font-size: 20px;
+    word-break: break-all;
+}
+
+.checks {
+    display: flex;
+    margin: 50px;
+    text-align: left;
+    justify-content: space-between;
+}
+
+#pass-len {
+    color: aliceblue;
+    margin: 10px;
+    font-weight: bold;    
+}
+
+#num {
+    margin: 20px;
+}
+
+#toggle {
+    color: aliceblue;
+    font-weight: bold;
+}
+
+
+#copy-button{
+    background-color: #10B981;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 10px;
+    font-weight: bold;
+    color: aliceblue;
+    cursor: pointer;
+    margin-bottom: 20px;
+    font-size: medium;
+}
